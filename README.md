@@ -8,8 +8,7 @@ Atividade para criação de um cardápio simples
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="isabel Cristina"
-    <title><strong>SABORES DE PIZZA FIT</strong></title>
-
+    
 <style>
 
 body{font-family: Arial, Helvetica, sans-serif;background-color: bisque;}
