@@ -26,11 +26,9 @@ sensação de saciedade.</p>
 <h3> Preços promocionais de inauguração. Preço:R$30,00.Levando duas pizzas pague apenas R$50,00,
     <b>Contatos via whatsapp:15(976865024)Sorocaba e região.
     
-    </b>
+    
     Podemos personalizar seu recheio.
 
 </h3>    
 
-</body>
 
-</html>
