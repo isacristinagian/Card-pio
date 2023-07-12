@@ -1,35 +1,6 @@
 # Cardápio
 Atividade para criação de um cardápio simples
-<!DOCTYPE html>
-<html lang="pt-br">
 
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="isabel Cristina"
-    
-<style>
-
-body{font-family: Arial, Helvetica, sans-serif;background-color: bisque;}
-
-
-h1{padding: 10px;border:10px solid green;margin-bottom: auto;text-align: left;border-width: 50%;margin-right: 25%;}
-h2{font-style: italic;color: hsl(323, 100%, 50%);text-align: left;border-width: 50%;margin-right: 25%; }
-h3{padding: 10px;border:10px solid green;margin-bottom: auto;text-align: left;border-width: 50%;margin-right: 25%;}
-.p1{ padding: 25px;}
-.p2{ padding: 10px;border:5px solid green; }
-.p3{ padding: 10px;border:2px dotted green;
-box-sizing: border-box;
-margin-bottom: 5%;
-text-align: left;
-border-width: 50%;
-margin-right: 25%;
-}
-
-</style>
-
-</head>
 
 <h1>ISA PIZZAS FIT, SAUDÁVEIS E SABOROSAS</h1>
 <br>
