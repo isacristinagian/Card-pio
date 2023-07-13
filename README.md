@@ -27,8 +27,6 @@ sensação de saciedade.</p>
     <b>Contatos via whatsapp:15(976865024)Sorocaba e região.
     
     
-    Podemos personalizar seu recheio.
-
-</h3>    
+    Podemos personalizar seu recheio.    
 
 
